@@ -9,3 +9,9 @@ three methods was tested on this project ( random selection of images for test a
 code written by Matlab.
 
 Run on CPU.
+
+results:
+
+
+
+![Annotation 2023-09-23 122742](https://github.com/RominaZakerian/kinship-verification-from-facial-images/assets/82145034/6eb8115c-cffe-4c90-adbe-5cc6b0346980)
