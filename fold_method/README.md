@@ -1,7 +1,4 @@
 # kinship-verification-from-facial-images
-This repo was my bachelor thesis @khajenasir university of technology
-
-this project was tested on two dataset ( kin-face-W-I , kin-face-W-II) and code have been written with Matlab.
 
 test with k-fold method
 
