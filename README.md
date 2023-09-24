@@ -22,3 +22,5 @@ kin-face-W-II:
 
 
 If you find this code useful for your research, please star it.
+
+If you have any questions about this code, please do not hesitate to contact me.
