@@ -20,3 +20,5 @@ kin-face-W-II:
 
 ![Annotation 2023-09-23 123220](https://github.com/RominaZakerian/kinship-verification-from-facial-images/assets/82145034/0e16a42d-d9cc-483d-9fc9-dfa2f27c3c46)
 
+
+If you find this code useful for your research, please star it.
